@@ -42,10 +42,10 @@ const Navigation = ({ activeSection, scrollToSection, language, setLanguage, sec
         {/* Language switcher and social links */}
         <div className="flex items-center space-x-4">
           <LanguageSwitcher language={language} setLanguage={setLanguage} />
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-purple-400">
+          <a href="https://www.linkedin.com/in/ethan-tomaso-4b67a7209/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-purple-400">
             <Linkedin />
           </a>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-purple-400">
+          <a href="https://github.com/Neonexus45" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-purple-400">
             <Github />
           </a>
         </div>
