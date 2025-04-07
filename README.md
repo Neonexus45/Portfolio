@@ -50,9 +50,7 @@ src/
 
 ### Boot Screen
 - Animation de démarrage style terminal
-- Effet de "code rain" en arrière-plan
 - Sélection de langue interactive
-- Easter eggs et références geek
 
 ### Skills Universe
 - Visualisation interactive des compétences
@@ -137,4 +135,3 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 Ethan Tomaso - ethan.tomaso@gmail.com
 
-Lien du projet : [https://github.com/votre-username/portfolio] 
