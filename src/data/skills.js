@@ -15,10 +15,7 @@ export const skillTree = {
             children: [
               { name: "Python", level: 5 },
               { name: "C/C++", level: 4 },
-              { name: "Java", level: 4 },
-              { name: "C#", level: 4 },
-              { name: "TypeScript", level: 4 },
-              { name: "Rust", level: 3 }
+              { name: "Rust", level: 2 }
             ]
           },
           {
@@ -27,8 +24,7 @@ export const skillTree = {
             children: [
               { name: "RAG Architecture", level: 5 },
               { name: "LLM", level: 5 },
-              { name: "Data Engineering", level: 5 },
-              { name: "Big Data", level: 4 }
+              { name: "Data Engineering", level: 5 }
             ]
           },
           {
@@ -60,8 +56,7 @@ export const skillTree = {
               { name: "Problem Solving", level: 4 },
               { name: "Communication", level: 4 },
               { name: "Teamwork", level: 4 },
-              { name: "Adaptability", level: 5 },
-              { name: "Leadership", level: 3 }
+              { name: "Adaptability", level: 5 }
             ]
           }
         ]
@@ -81,10 +76,7 @@ export const skillTree = {
             children: [
               { name: "Python", level: 5 },
               { name: "C/C++", level: 4 },
-              { name: "Java", level: 4 },
-              { name: "C#", level: 4 },
-              { name: "TypeScript", level: 4 },
-              { name: "Rust", level: 3 }
+              { name: "Rust", level: 2 }
             ]
           },
           {
@@ -93,8 +85,7 @@ export const skillTree = {
             children: [
               { name: "Architecture RAG", level: 5 },
               { name: "LLM", level: 5 },
-              { name: "Ingénierie des Données", level: 5 },
-              { name: "Big Data", level: 4 }
+              { name: "Ingénierie des Données", level: 5 }
             ]
           },
           {
@@ -126,8 +117,7 @@ export const skillTree = {
               { name: "Résolution de Problèmes", level: 4 },
               { name: "Communication", level: 4 },
               { name: "Travail d'Équipe", level: 4 },
-              { name: "Adaptabilité", level: 5 },
-              { name: "Leadership", level: 3 }
+              { name: "Adaptabilité", level: 5 }
             ]
           }
         ]

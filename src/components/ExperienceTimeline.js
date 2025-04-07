@@ -30,14 +30,6 @@ const ExperienceTimeline = ({ language }) => {
             transition: `all 0.5s ease ${index * 0.2}s`
           }}
         >
-          {/* Timeline dot */}
-          <div className="absolute top-2 w-4 h-4 rounded-full bg-purple-600 shadow-lg z-10"
-            style={{ 
-              [index % 2 === 0 ? 'right' : 'left']: '-2px',
-              transform: 'translateX(-50%)'
-            }}
-          ></div>
-          
           {/* Experience card */}
           <div className="bg-gray-900 rounded-lg shadow-md p-6 border-l-4 border-purple-600">
             <h3 className="font-bold text-lg text-purple-400">{exp.title}</h3>
